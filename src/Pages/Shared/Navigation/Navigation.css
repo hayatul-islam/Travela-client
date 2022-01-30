@@ -1,0 +1,20 @@
+.logo{
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold;;
+}
+.navigationMenu a{
+    padding: 0 20px;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 14px;
+}
+.addListingBtn{
+    background: none;
+    border: 1px solid #ffffff80;
+    padding: 8px 16px;
+    border-radius: 20px;
+}
+.addListingBtn:hover{
+    background: #f85959;
+}

@@ -1,0 +1,66 @@
+
+.topBanner{
+    background-image: url('https://i.ibb.co/bQGLWmj/bg-1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: relative;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+.BannerNavigation{
+    position: absolute;
+    width: 100%;
+    top: 20px;
+}
+
+/* banner title  */
+.topBanner h1{
+    color: white;
+}
+.bannerTitle h1{
+    font-size: 60px;
+    line-height: 55px;
+}
+.topBanner p{
+    font-size: 20px;
+    color: #ffffffcc
+}
+
+/* input search  */
+.searchPlace input,select{
+    padding: 22px 15px;
+    border: none;
+}
+.searchInput{
+    width: 28%;
+    display: inline-block;
+}
+.where{
+    border-left: 1px solid #e5d2d2;
+    border-bottom: 1px solid #ffffff;
+}
+.searchBtn{
+    width: 160px;
+    background: #f85959;
+    border: 1px solid #f85959;
+    color: #fff;
+    padding: 12px 10px;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    border-radius: 0;
+}
+
+
+.category button{
+    padding: 11px 22px;
+    margin-right: 10px;
+    background: white;
+    color: #8f8f8f;
+    border: none;
+}
+.category button:hover{
+    background: #f85959;
+}
