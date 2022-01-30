@@ -1,11 +1,11 @@
 import React from 'react';
-import { Card, CardGroup, Col, Container, Row } from 'react-bootstrap';
+import { Card, CardGroup, Container } from 'react-bootstrap';
 import './Service.css';
 
 const Service = () => {
     return (
         <div className='serviceContainer'>
-            <Container>
+            <Container className='sectionContainer'>
                 <CardGroup className='services'>
                     <Card>
                         <Card.Img variant="top"
@@ -15,7 +15,7 @@ const Service = () => {
                                 Best Price Guarantee
                             </Card.Title>
                             <Card.Text>
-                                A small river named Duden flows by their place and supplies.
+                                <p>A small river named Duden flows by their place and supplies.</p>
                             </Card.Text>
                         </Card.Body>
                     </Card>
@@ -27,7 +27,7 @@ const Service = () => {
                                 Travellers Love Us
                             </Card.Title>
                             <Card.Text>
-                                A small river named Duden flows by their place and supplies.
+                                <p>A small river named Duden flows by their place and supplies.</p>
                             </Card.Text>
                         </Card.Body>
                     </Card>
@@ -39,7 +39,7 @@ const Service = () => {
                                 Best Travel Agent
                             </Card.Title>
                             <Card.Text>
-                                A small river named Duden flows by their place and supplies.
+                                <p>A small river named Duden flows by their place and supplies.</p>
                             </Card.Text>
                         </Card.Body>
                     </Card>
@@ -51,7 +51,7 @@ const Service = () => {
                                 Our Dedicated Support
                             </Card.Title>
                             <Card.Text>
-                                A small river named Duden flows by their place and supplies.
+                                <p>A small river named Duden flows by their place and supplies.</p>
                             </Card.Text>
                         </Card.Body>
                     </Card>

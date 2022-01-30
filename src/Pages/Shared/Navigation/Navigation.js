@@ -6,7 +6,7 @@ import './Navigation.css';
 const Navigation = () => {
     return (
         <Navbar expand="lg">
-            <Container>
+            <Container className='sectionContainer'>
                 <Navbar.Brand >
                     <div className='logo'>
                         Travela.

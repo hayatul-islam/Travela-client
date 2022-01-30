@@ -3,3 +3,8 @@
 body{
   font-family: 'Poppins', sans-serif;
 }
+
+/* common class  */
+.sectionContainer{
+  padding: 0 100px;
+}

@@ -14,7 +14,7 @@
     -webkit-box-shadow: 0px 2px 5px 0px rgb(0 0 0 / 3%);
     -moz-box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.03);
     box-shadow: 0px 2px 5px 0px rgb(0 0 0 / 3%);
-    padding: 25px;
+    padding: 15px;
     -moz-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
     -webkit-transition: all 0.3s ease;
@@ -26,4 +26,18 @@
     border-radius: 2px;
     border:none;
     text-align: center;
+}
+.services p{
+    font-size: 16px;
+    line-height: 1.8;
+    font-weight: 300;
+    color: #4d4d4d;
+    transition: all 0.3s ease;
+}
+.services .card:hover{
+    background-color: #f85959;
+    color: #f8faff;
+}
+.services .card:hover p{
+    color: #fcf7f7;
 }

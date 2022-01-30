@@ -6,14 +6,14 @@ import './Banner.css';
 const Banner = () => {
     return (
 
+
         <div className='topBanner'>
 
             {/* navigation  */}
             <div className='BannerNavigation'>
                 <Navigation />
             </div>
-
-            <Container>
+            <Container className='sectionContainer'>
                 {/* title  */}
                 <div className='bannerTitle'>
                     <h1 className='fw-bold'>Explore</h1>
