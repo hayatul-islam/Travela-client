@@ -1,0 +1,18 @@
+.articles{
+    background: #f8faff;
+}
+.article img{
+    height: 250px;
+}
+.article span{
+    color: #b3b3b3;
+    font-size: 14px;
+}
+.article h3{
+    font-size: 20px;
+    margin-bottom: 18px;
+    line-height: 30px;
+}
+.article h3:hover{
+    color: #f85959;
+}

@@ -1,4 +1,5 @@
 import React from 'react';
+import Articles from '../Articles/Articles';
 import Banner from '../Banner/Banner';
 import Destination from '../Destination/Destination';
 import OurTour from '../OurTour/OurTour';
@@ -15,6 +16,7 @@ const Home = () => {
             <OurTour />
             <PopularHotelAndRoom />
             <PopularRestaurant />
+            <Articles />
         </div>
     );
 };
