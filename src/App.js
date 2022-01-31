@@ -12,6 +12,8 @@ import Tour from './Pages/Tour/Tour';
 import Hotels from './Pages/Hotels/Hotels';
 import Blog from './Pages/Blog/Blog';
 import Contact from './Pages/Contact/Contact';
+import 'slick-carousel/slick/slick.css';
+import 'slick-carousel/slick/slick-theme.css';
 
 
 function App() {

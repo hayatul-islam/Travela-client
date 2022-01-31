@@ -1,0 +1,32 @@
+[
+    {
+        "image": "https://i.ibb.co/tQkzK0W/destination-1.jpg",
+        "name": "Lodon, UK",
+        "listing": "20"
+    },
+    {
+        "image": "https://i.ibb.co/fvhZQX3/destination-2.jpg",
+        "name": "Australia",
+        "listing": "15"
+    },
+    {
+        "image": "https://i.ibb.co/h2y3Qyc/destination-3.jpg",
+        "name": "San Francisco, USA",
+        "listing": "12"
+    },
+    {
+        "image": "https://i.ibb.co/Lhd9xvk/destination-4.jpg",
+        "name": "Lion, Singapore",
+        "listing": "4"
+    },
+    {
+        "image": "https://i.ibb.co/37GK17d/destination-5.jpg",
+        "name": "Paris, Italy",
+        "listing": "7"
+    },
+    {
+        "image": "https://i.ibb.co/vkhcwpQ/destination-6.jpg",
+        "name": "Lion, Singapore",
+        "listing": "4"
+    }
+]

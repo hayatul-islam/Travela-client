@@ -1,0 +1,61 @@
+.descriptionContainer{
+    position: relative;
+}
+.destination{
+    border: 1px solid #e9e9e9;
+    border-radius: 3px;
+    margin: 0 15px;
+}
+.destination img{
+    height: 300px;
+    width: 100%;
+    display: block;
+}
+.searchIcon{
+    width: 60px;
+    height: 60px;
+    background: #fff;
+    border-radius: 50%;
+    transition: all 0.3s ease;
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    visibility: hidden;
+}
+.searchIcon i{
+    font-size: 10px;
+}
+.descriptionContainer:hover .searchIcon{
+    visibility: visible;
+}
+
+/* slick carousel customize */
+.destinationSlider:hover .slick-next:before{
+    display: block;
+}
+.destinationSlider:hover .slick-prev:before{
+    display: block;
+}
+.slick-prev:before {
+    content: '←';
+    color: #f85959 !important;
+    display: none;
+}
+.slick-next:before {
+    content: '→';
+    color: #f85959 !important;
+    display: none;
+}
+.slick-dots li.slick-active button:before {
+    opacity: 1 !important;
+    color: #f85959 !important;
+    font-size: 10px !important;
+}
+.slick-dots li button:before {
+    opacity: .25;
+    color: #f85959 !important;
+    font-size: 10px !important;
+}
