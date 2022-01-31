@@ -58,3 +58,10 @@
 .gridCard:hover .gridSearchIcon{
     visibility: visible;
 }
+
+/* grid four  */
+.gridContainerFour{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 25px;
+}

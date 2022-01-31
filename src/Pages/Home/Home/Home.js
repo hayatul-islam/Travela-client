@@ -3,6 +3,7 @@ import Banner from '../Banner/Banner';
 import Destination from '../Destination/Destination';
 import OurTour from '../OurTour/OurTour';
 import PopularHotelAndRoom from '../PopularHotelAndRoom/PopularHotelAndRoom';
+import PopularRestaurant from '../PopularRestaurant/PopularRestaurant';
 import Service from '../Service/Service';
 
 const Home = () => {
@@ -13,6 +14,7 @@ const Home = () => {
             <Destination />
             <OurTour />
             <PopularHotelAndRoom />
+            <PopularRestaurant />
         </div>
     );
 };

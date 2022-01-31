@@ -1,0 +1,42 @@
+[
+    {
+        "image": "https://sajeeb360.github.io/travela/images/restaurant-1.jpg",
+        "name": "Luxury Restaurant",
+        "listing": "20",
+        "price": "200",
+        "rating": "5",
+        "bookingTime": "2 days 3 nights",
+        "description": "Far far away, behind the word mountains, far from the countries",
+        "place": "San Franciso, CA"
+    },
+    {
+        "image": "https://sajeeb360.github.io/travela/images/restaurant-2.jpg",
+        "name": "Luxury Restaurant",
+        "listing": "20",
+        "price": "200",
+        "rating": "5",
+        "bookingTime": "2 days 3 nights",
+        "description": "Far far away, behind the word mountains, far from the countries",
+        "place": "San Franciso, CA"
+    },
+    {
+        "image": "https://sajeeb360.github.io/travela/images/restaurant-3.jpg",
+        "name": "Luxury Restaurant",
+        "listing": "20",
+        "price": "200",
+        "rating": "5",
+        "bookingTime": "2 days 3 nights",
+        "description": "Far far away, behind the word mountains, far from the countries",
+        "place": "San Franciso, CA"
+    },
+    {
+        "image": "https://sajeeb360.github.io/travela/images/restaurant-4.jpg",
+        "name": "Luxury Restaurant",
+        "listing": "20",
+        "price": "200",
+        "rating": "5",
+        "bookingTime": "2 days 3 nights",
+        "description": "Far far away, behind the word mountains, far from the countries",
+        "place": "San Franciso, CA"
+    }
+]
