@@ -14,6 +14,7 @@ import Blog from './Pages/Blog/Blog';
 import Contact from './Pages/Contact/Contact';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
+import './Pages/Shared/Common/Common.css';
 
 
 function App() {

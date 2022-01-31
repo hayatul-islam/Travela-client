@@ -1,0 +1,60 @@
+
+.miniSectionContainer{
+    padding: 0 56px;
+}
+
+/* grid tour  */
+.gridContainer{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 20px;
+}
+.gridContainer img{
+    height: 200px;
+}
+.gridContainer p{
+    font-size: 14px;
+    color: #4d4d4d
+}
+.gridContainer .tourBtn{
+    background: #8bc34a;
+    color: #fff;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    border-radius: 4px;
+    padding: 3px 5px;
+    cursor: pointer;
+}
+.gridContainer hr {
+    background-color: #7d7676;
+}
+.gridContainer .gridRating{
+    display: flex;
+    align-items: center;
+}
+.gridContainer .gridRating i{
+    margin-right: 10px;
+    font-size: 10px;
+    color: #f85959;
+}
+.gridSearchIcon{
+    width: 60px;
+    height: 60px;
+    background: #fff;
+    border-radius: 50%;
+    transition: all 0.3s ease;
+    position: absolute;
+    top: 15%;
+    left: 38%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    visibility: hidden;
+}
+.gridSearchIcon i{
+    font-size: 10px;
+}
+.gridCard:hover .gridSearchIcon{
+    visibility: visible;
+}
