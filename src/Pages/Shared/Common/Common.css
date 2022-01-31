@@ -27,7 +27,7 @@
     cursor: pointer;
 }
 .gridContainer hr {
-    background-color: #7d7676;
+    background: #7d7676;
 }
 .gridContainer .gridRating{
     display: flex;

@@ -1,0 +1,52 @@
+[
+    {
+        "image": "https://sajeeb360.github.io/travela/images/hotel-1.jpg",
+        "name": "Hotel, Italy",
+        "listing": "20",
+        "price": "40",
+        "rating": "5",
+        "bookingTime": "2 days 3 nights",
+        "description": "Far far away, behind the word mountains, far from the countries",
+        "place": "Miami, Fl"
+    },
+    {
+        "image": "https://sajeeb360.github.io/travela/images/hotel-2.jpg",
+        "name": "Hotel, Italy",
+        "listing": "20",
+        "price": "40",
+        "rating": "5",
+        "bookingTime": "2 days 3 nights",
+        "description": "Far far away, behind the word mountains, far from the countries",
+        "place": "Miami, Fl"
+    },
+    {
+        "image": "https://sajeeb360.github.io/travela/images/hotel-3.jpg",
+        "name": "Hotel, Italy",
+        "listing": "20",
+        "price": "40",
+        "rating": "4",
+        "bookingTime": "2 days 3 nights",
+        "description": "Far far away, behind the word mountains, far from the countries",
+        "place": "Miami, Fl"
+    },
+    {
+        "image": "https://sajeeb360.github.io/travela/images/hotel-4.jpg",
+        "name": "Hotel, Italy",
+        "listing": "20",
+        "price": "40",
+        "rating": "5",
+        "bookingTime": "2 days 3 nights",
+        "description": "Far far away, behind the word mountains, far from the countries",
+        "place": "Miami, Fl"
+    },
+    {
+        "image": "https://sajeeb360.github.io/travela/images/hotel-5.jpg",
+        "name": "Hotel, Italy",
+        "listing": "20",
+        "price": "40",
+        "rating": "4",
+        "bookingTime": "2 days 3 nights",
+        "description": "Far far away, behind the word mountains, far from the countries",
+        "place": "Miami, Fl"
+    }
+]
