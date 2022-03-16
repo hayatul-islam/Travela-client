@@ -2,6 +2,9 @@
 .miniSectionContainer{
     padding: 0 56px;
 }
+.sectionPadding{
+    padding: 84px 0;
+}
 
 /* grid tour  */
 .gridContainer{
