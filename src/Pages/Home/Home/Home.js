@@ -1,4 +1,5 @@
 import React from 'react';
+import Footer from '../../Shared/Footer/Footer';
 import Articles from '../Articles/Articles';
 import Banner from '../Banner/Banner';
 import Destination from '../Destination/Destination';
@@ -23,6 +24,7 @@ const Home = () => {
             <PopularRestaurant />
             <Articles />
             <Subcribe />
+            <Footer />
         </div>
     );
 };

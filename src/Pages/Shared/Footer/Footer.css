@@ -1,0 +1,44 @@
+.footer{
+    background: #222831;
+    padding: 130px 0;
+}
+.footer h3{
+    font-weight: normal;
+    color: #fff;
+    margin-bottom: 40px;
+    font-size: 18px;
+    font-weight: 400;
+}
+.footer p,li{
+    color: rgba(255, 255, 255, 0.7);
+}
+.footer p{
+    line-height: 30px;
+}
+.footer li{
+    list-style: none;
+    line-height: 40px;
+    cursor: pointer;
+}
+.footer span {
+    height: 50px;
+    width: 50px;
+    float: left;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.footer span i{
+    color: white;
+    font-size: 26px;
+}
+.footerContact i{
+    font-size: 20px;
+    color: white;
+    padding-top: 6px;
+    padding-right: 15px;
+}
