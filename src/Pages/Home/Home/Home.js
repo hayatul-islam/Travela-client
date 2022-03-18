@@ -8,6 +8,7 @@ import PopularRestaurant from '../PopularRestaurant/PopularRestaurant';
 import Service from '../Service/Service';
 import SomeFun from '../SomeFun/SomeFun';
 import WhyChooseUs from '../WhyChooseUs/WhyChooseUs';
+import Subcribe from './Subcribe/Subcribe';
 
 const Home = () => {
     return (
@@ -21,6 +22,7 @@ const Home = () => {
             <WhyChooseUs />
             <PopularRestaurant />
             <Articles />
+            <Subcribe />
         </div>
     );
 };

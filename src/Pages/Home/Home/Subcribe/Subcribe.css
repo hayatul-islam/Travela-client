@@ -1,0 +1,30 @@
+.subscribe{
+    text-align: center;
+    padding: 140px;
+    background-image: linear-gradient(-45deg, #68e5b2 0%, #2ebdc4 100%);
+    color: white;
+}
+.subscribe p{
+    max-width: 650px;
+    margin: 0 auto;
+    font-size: 14px;
+    color: #fffffff6;
+    margin-bottom: 40px;
+    margin-top: 12px;
+}
+.subscribeInput input{
+    padding: 16px 10px;
+    background: transparent !important;
+    border: 1px solid #ffff;
+}
+.subscribeInput span{
+    border: none;
+    padding: 16px 10px;
+    background: transparent !important;
+    border: 1px solid #ffff;
+}
+
+.input-group {
+    max-width: 500px;
+    margin: 0 auto;
+}
