@@ -1,0 +1,24 @@
+.someFunContainer{
+    
+    text-align: center;
+    padding: 140px 0;
+    background: linear-gradient(0deg, rgb(11 179 171 / 95%), rgb(6 94 75 / 73%)), url(https://raw.githubusercontent.com/sajeeb360/travela/main/images/bg_1.jpg);
+    background: linear-gradient(0deg, rgb(8 155 148 / 95%), rgb(19 206 166 / 87%)), url(https://raw.githubusercontent.com/sajeeb360/travela/main/images/bg_1.jpg);
+  background-size:cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.someFunContainer h1{
+    font-size: 40px;
+    color: #ffff;
+    padding-bottom: 15px;
+}
+.someFunContainer h3{
+    font-size: 30px;
+    color: #ffff;
+}
+.someFunContainer p{
+    font-size: 16px;
+    color: rgba(255, 255, 255, 0.7);
+}

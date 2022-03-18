@@ -6,6 +6,7 @@ import OurTour from '../OurTour/OurTour';
 import PopularHotelAndRoom from '../PopularHotelAndRoom/PopularHotelAndRoom';
 import PopularRestaurant from '../PopularRestaurant/PopularRestaurant';
 import Service from '../Service/Service';
+import SomeFun from '../SomeFun/SomeFun';
 import WhyChooseUs from '../WhyChooseUs/WhyChooseUs';
 
 const Home = () => {
@@ -15,6 +16,7 @@ const Home = () => {
             <Service />
             <Destination />
             <OurTour />
+            <SomeFun />
             <PopularHotelAndRoom />
             <WhyChooseUs />
             <PopularRestaurant />
